@@ -18,6 +18,7 @@ This is a simple website created using HTML, CSS, and JavaScript.
 2. Open index.html in your browser
 
 ## 📸 Screenshot
+![Website Preview](Screenshot 2026-04-11 000551.png)
 
 
 ## 🙌 Author
